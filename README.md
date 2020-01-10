@@ -8,6 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Some prior steps are require to run this project.
+
+1. Need to create your .env file in your project folder adecent to'src' folder. 
+2. contact me to get details of .env file.
+
 First run 'npm install' to get install all node-modules
 ### `npm install`
 In the project directory, you can run:
