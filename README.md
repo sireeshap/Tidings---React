@@ -1,3 +1,9 @@
+This proect will fetch updated news around the world and will show in form of Cards.Hear User can see USA based news on dault, and can view available updated news ountry wise. This is sample work developed by [Sireesha Purushotham](https://www.linkedin.com/in/sireeshapurushotham/)
+
+Contact me to Hire.
+Email: sireeshapurushotham@gmail.com
+Linkedin: https://www.linkedin.com/in/sireeshapurushotham/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
