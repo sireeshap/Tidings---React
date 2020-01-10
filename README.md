@@ -1,6 +1,6 @@
 This proect will fetch updated news around the world and will show in form of Cards.Hear User will view USA based news on deafult, and can view available updated news country wise from dropdown provided in Menu-Articles. 
 
-Demo can find Hear: 
+Demo can find Hear: <br/>
 https://tidings-a6c49.firebaseapp.com/ <br/>
 https://tidings-a6c49.web.app/
 
