@@ -1,4 +1,10 @@
-This proect will fetch updated news around the world and will show in form of Cards.Hear User will view USA based news on deafult, and can view available updated news country wise from dropdown provided in Menu-Articles. This work developed by [Sireesha Purushotham](https://www.linkedin.com/in/sireeshapurushotham/)
+This proect will fetch updated news around the world and will show in form of Cards.Hear User will view USA based news on deafult, and can view available updated news country wise from dropdown provided in Menu-Articles. 
+
+Demo can find Hear: 
+https://tidings-a6c49.firebaseapp.com/
+https://tidings-a6c49.web.app/
+
+This work developed by [Sireesha Purushotham](https://www.linkedin.com/in/sireeshapurushotham/)
 
 Contact me to Hire.
 Email: sireeshapurushotham@gmail.com
