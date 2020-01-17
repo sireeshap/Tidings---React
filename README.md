@@ -1,23 +1,6 @@
-This proect will fetch updated news around the world and will show in form of Cards.Hear User will view USA based news on deafult, and can view available updated news country wise from dropdown provided in Menu-Articles. 
-
-Demo can find Hear: <br/>
-https://tidings-a6c49.firebaseapp.com/ <br/>
-https://tidings-a6c49.web.app/
-
-This work developed by [Sireesha Purushotham](https://www.linkedin.com/in/sireeshapurushotham/)
-
-Contact me to Hire.
-Email: sireeshapurushotham@gmail.com<br/>
-Linkedin: https://www.linkedin.com/in/sireeshapurushotham/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-Some prior steps are require to run this project.
-
-1. Need to create your .env file in your project folder adecent to'src' folder. 
-2. contact me to get details of .env file.
 
 First run 'npm install' to get install all node-modules
 ### `npm install`
