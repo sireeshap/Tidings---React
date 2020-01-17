@@ -1,0 +1,62 @@
+.alignRight {
+  float: right; }
+
+.size-xs {
+  font-size: 10px; }
+
+.size-sm {
+  font-size: 12px; }
+
+.size-md {
+  font-size: 14px; }
+
+.size-lg {
+  font-size: 16px; }
+
+.article-container {
+  margin: 0 6% 0 10%; }
+
+.card-style {
+  width: 17rem !important;
+  height: 21rem !important;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px; }
+  .card-style .img {
+    max-height: 65%;
+    height: 190px;
+    display: block; }
+
+.card-body {
+  height: 150px; }
+
+.card-img {
+  max-width: 100%;
+  max-height: 65%;
+  height: 190px;
+  display: block; }
+
+.tailMore {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical; }
+
+.title {
+  font: 14px 'Roboto, Helvetica, Arial, sans-serif';
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.65);
+  margin-left: 5px;
+  margin-right: 5px; }
+
+.newsImg {
+  height: 50%;
+  width: 100%;
+  display: block; }
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .article-container {
+    margin: 0 0 0 7%; }
+  .card-style {
+    width: 15rem; } }
